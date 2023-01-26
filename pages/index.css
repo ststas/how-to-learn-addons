@@ -4,7 +4,7 @@
 @import url(../blocks/page/page.css);
 /* KEYFRAMES */
 @import url(../blocks/rotation/rotation.css);
-@import url(../blocks/scale/scale.css);
+@import url(../blocks/skew/skew.css);
 
 /* LOGO */
 @import url(../blocks/logo/logo.css);
