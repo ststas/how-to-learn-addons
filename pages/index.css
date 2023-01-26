@@ -4,6 +4,8 @@
 @import url(../blocks/page/page.css);
 /* KEYFRAMES */
 @import url(../blocks/rotation/rotation.css);
+@import url(../blocks/scale/scale.css);
+
 /* LOGO */
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
@@ -82,6 +84,7 @@
 @import url(../blocks/comments/comments.css);
 @import url(../blocks/comments/__form/comments__form.css);
 @import url(../blocks/comments/__button/comments__button.css);
+@import url(../blocks/comments/__circle-pic/comments__circle-pic.css);
 
 /* FOOTER */
 @import url(../blocks/footer/footer.css);
