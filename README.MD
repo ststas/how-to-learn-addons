@@ -1,11 +1,40 @@
-# Научиться учиться  
+# PROJECT HOW TO LEARN
 
-## Сдача проекта "Научиться учиться". Описание.  
- Проектная работа 2 включает в себя переоформление ранее созданной файловой структуры по правилам Nested БЭМ. В работе были использованы: HTML, CSS, также применена анимация, созданная с помощью CSS. Цель проекта - отработать вышеуказанные технологии при работе с анимацией, шрифтами и фреймами.  
+## Description & Functionality
+* The project provides one page web site which demostrates HTML, CSS practical skills as well as Nested-BEM files structure build. This site is for desktop use only.
 
-## Планы по доработке:  
-* сделать форму для отправки коментариев пользователей  
-* подключить другие шрифты  
-* проверить кода на кроссбраузерность, дописать вендорные префиксы
+## Stack & Tools
+* HTML, CSS, Nested-BEM
 
-### Станислав Зайцев х Yandex Practicum 
+## My goal
+* to improve HTML, CSS (incl. basic animation) skills.
+* to improve work with Nested-BEM files structure.
+
+## To run
+* download repository and run index.html
+
+## Web version
+* https://ststas.github.io/projects/how-to-learn
+
+### Stanislav Zaitsev х Yandex Practicum
+
+
+# ПРОЕКТ HOW TO LEARN
+
+## Описание и функциональность
+* Проект представляет одностраничный веб-сайт, демонстрирующий использование HTML и CSS для верстки и принципа организации файловой структуры Nested-BEM. Сайт не поддерживает мобильную версию.
+
+## Стек и инструменты
+* HTML, CSS, Nested-BEM
+
+## Цель
+* прокачать навыки по работе с HTML, CSS, в т.ч. анимацией.
+* прокачать навык организации файлой структуры с использованием Nested-BEM.
+
+## Для запуска
+* скачайте репозиторий и запустите файл index.html
+
+## Развернутая версия
+* https://ststas.github.io/projects/how-to-learn
+
+### Станислав Зайцев х Yandex Practicum
